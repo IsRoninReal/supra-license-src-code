@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "http": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.0.0",
+    "request": "^2.88.2",
+    "rimraf": "^3.0.2"
+  }
+}
